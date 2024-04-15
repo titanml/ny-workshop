@@ -1,2 +1,3 @@
-# ny-workshop
-Code repo for New York workshop 
+# MLopsWorld workshop 
+
+Takeoff notebook for MLopsWorld workshop 
